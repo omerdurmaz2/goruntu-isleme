@@ -6,7 +6,7 @@ namespace goruntu_isleme
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Dünya!");
+            Console.WriteLine("Hello ömer!");
         }
     }
 }
